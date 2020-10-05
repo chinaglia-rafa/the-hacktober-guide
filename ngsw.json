@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1601916568258,
+  "timestamp": 1601931007745,
   "index": "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://chinaglia-rafa.github.io/the-hacktober-guide/favicon.ico",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html",
-        "https://chinaglia-rafa.github.io/the-hacktober-guide/main.8e499317cbd384e4aa32.js",
+        "https://chinaglia-rafa.github.io/the-hacktober-guide/main.2999686ca3ec5b502a6b.js",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/manifest.webmanifest",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/polyfills.35a5ca1855eb057f016a.js",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/runtime.acf0dec4155e77772545.js",
-        "https://chinaglia-rafa.github.io/the-hacktober-guide/styles.692538ac967adf5e5847.css"
+        "https://chinaglia-rafa.github.io/the-hacktober-guide/styles.9f0e8dc2507bf7e4d02f.css"
       ],
       "patterns": []
     },
@@ -60,12 +60,12 @@
     "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-72x72.png": "f22a60c20002fb8a3d111ad4a33b48470ad27358",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-96x96.png": "1f4c385541cd6de57eff83fbdb293680fa4a9202",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/favicon.ico": "61fc0be00d5a478844d9d4dfcc9b2cec5b3e5d97",
-    "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html": "c4ed7085dee1ccd86c1214f70b183d60dd93dc63",
-    "https://chinaglia-rafa.github.io/the-hacktober-guide/main.8e499317cbd384e4aa32.js": "90c9fcf995e73ec2d6a44edef33d41942e2ac3c5",
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html": "f96c5e95204705115e3c29970614172d45722df2",
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/main.2999686ca3ec5b502a6b.js": "cc7a535b73a69440011f1a8631e04cdeb8207783",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/manifest.webmanifest": "447d1e5ed2069ee664a6cd60ceb7ad07a343cdd2",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://chinaglia-rafa.github.io/the-hacktober-guide/styles.692538ac967adf5e5847.css": "57c864eadda6989b994c4234d274cbc1793cf813"
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/styles.9f0e8dc2507bf7e4d02f.css": "f84214b77a66b551d1a8d0b7242cca2b6ee1b2e0"
   },
   "navigationUrls": [
     {
