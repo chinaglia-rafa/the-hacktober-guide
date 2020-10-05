@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1601863644231,
+  "timestamp": 1601869531655,
   "index": "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://chinaglia-rafa.github.io/the-hacktober-guide/favicon.ico",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html",
-        "https://chinaglia-rafa.github.io/the-hacktober-guide/main.3fb79cd90df44ea0b8e2.js",
+        "https://chinaglia-rafa.github.io/the-hacktober-guide/main.425d48025c77b20ce54c.js",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/manifest.webmanifest",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/polyfills.35a5ca1855eb057f016a.js",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/runtime.acf0dec4155e77772545.js",
-        "https://chinaglia-rafa.github.io/the-hacktober-guide/styles.09e2c710755c8867a460.css"
+        "https://chinaglia-rafa.github.io/the-hacktober-guide/styles.00423e1160eb7f1c9c1e.css"
       ],
       "patterns": []
     },
@@ -29,6 +29,10 @@
         "ignoreVary": true
       },
       "urls": [
+        "https://chinaglia-rafa.github.io/the-hacktober-guide/MaterialIcons-Regular.4674f8ded773cb03e824.eot",
+        "https://chinaglia-rafa.github.io/the-hacktober-guide/MaterialIcons-Regular.5e7382c63da0098d634a.ttf",
+        "https://chinaglia-rafa.github.io/the-hacktober-guide/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff",
+        "https://chinaglia-rafa.github.io/the-hacktober-guide/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-128x128.png",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-144x144.png",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-152x152.png",
@@ -43,6 +47,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/MaterialIcons-Regular.cff684e59ffb052d72cb.woff2": "09963592e8c953cc7e14e3fb0a5b05d5042e8435",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -52,12 +60,12 @@
     "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html": "791fd5b5b0001fe7cad54c27b6d8ec054b3b7570",
-    "https://chinaglia-rafa.github.io/the-hacktober-guide/main.3fb79cd90df44ea0b8e2.js": "7c906c818da6f48ccfa467e617396a40191a886c",
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html": "5321c95d183afa6ba7599f5125a9267fddba15ac",
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/main.425d48025c77b20ce54c.js": "77aa779d84ff9049ea74966472b033cb6281e6ae",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/manifest.webmanifest": "447d1e5ed2069ee664a6cd60ceb7ad07a343cdd2",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://chinaglia-rafa.github.io/the-hacktober-guide/styles.09e2c710755c8867a460.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/styles.00423e1160eb7f1c9c1e.css": "17ef64ee33b48f21753dbe0e1c3dbc31727e1b28"
   },
   "navigationUrls": [
     {
