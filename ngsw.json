@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1601913493936,
+  "timestamp": 1601913880677,
   "index": "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://chinaglia-rafa.github.io/the-hacktober-guide/favicon.ico",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html",
-        "https://chinaglia-rafa.github.io/the-hacktober-guide/main.87c88d8a939765c72090.js",
+        "https://chinaglia-rafa.github.io/the-hacktober-guide/main.2d011d1345e031db705a.js",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/manifest.webmanifest",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/polyfills.35a5ca1855eb057f016a.js",
         "https://chinaglia-rafa.github.io/the-hacktober-guide/runtime.acf0dec4155e77772545.js",
@@ -60,8 +60,8 @@
     "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-72x72.png": "f22a60c20002fb8a3d111ad4a33b48470ad27358",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/assets/icons/icon-96x96.png": "1f4c385541cd6de57eff83fbdb293680fa4a9202",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/favicon.ico": "61fc0be00d5a478844d9d4dfcc9b2cec5b3e5d97",
-    "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html": "35418d1b957b70dde879a2d2d81ac6423c9b045f",
-    "https://chinaglia-rafa.github.io/the-hacktober-guide/main.87c88d8a939765c72090.js": "dfc1e663230423a2b9a35266247ddcf0f6058f52",
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/index.html": "0ae524c7200cca6d31b7e97b0f689d59acdd14a0",
+    "https://chinaglia-rafa.github.io/the-hacktober-guide/main.2d011d1345e031db705a.js": "635ac89ddf9d9aef9ce74e9f0c9364d507b50359",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/manifest.webmanifest": "447d1e5ed2069ee664a6cd60ceb7ad07a343cdd2",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
     "https://chinaglia-rafa.github.io/the-hacktober-guide/runtime.acf0dec4155e77772545.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
